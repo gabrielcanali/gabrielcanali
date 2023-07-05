@@ -1,4 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/gabrielcanali">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielcanali&show_icons=true&theme=dark&hide_title=true" />
+</a>
+<a href="https://github.com/gabrielcanali">
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcanali&theme=dark&hide_title=true&layout=donut" />
+</a>
 
 <!--
 **gabrielcanali/gabrielcanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
