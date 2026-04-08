@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/gabriel_canali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-gabriel-canali" height="30" width="30" /></a>
 </p>
 
-<h3>💻 Technologies</h3>
+<h3>💻 Main Technologies</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>&nbsp;
