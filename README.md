@@ -3,53 +3,37 @@
 </p>
 
 <div align=center>
-<h1>Hi 👋, I'm Gabriel Canali</h1>
+<h1>Hi, I'm Gabriel Canali 👋</h1>
 
 ### Web developer | Laravel | VueJS
 
-📫 How to reach me **gabrielcanali.dev@gmail.com**
+📫 How to reach me: **gabrielcanali.dev@gmail.com**
 
-<h3>Connect with me:</h3>
+<h3>🌐 Contacts</h3>
 <p>
-<a href="https://github.com/gabrielcanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gabrielcanali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gabriel-canali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-canali" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/gabriel-canali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-gabriel-canali" height="30" width="30" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/gabriel_canali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-gabriel-canali" height="30" width="30" /></a>
 </p>
 
 <h3>💻 Technologies</h3>
-
-<h4>🎨 Front-end</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>&nbsp;
 </p>
 
-<h4>💾 Back-end</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-</p>
+<h3>💼 Professional Experience</h3>
 
-<h4>🛠️ Tools</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=obsidian" alt="obsidian" width="40" height="40"/>
-</p>
+</div><div align=justify>
+
+<p>Backend-focused Software Developer working on critical systems in a large-scale e-commerce platform.
+Maintaining and evolving a complex monolithic Laravel application, handling high-impact business flows, feature development, bug fixing, and production support.</p>
+<p>Also responsible for providing technical support to the customer service team, assisting in issue analysis and resolution.</p>
+<p>Experience includes designing and maintaining RESTful APIs, optimizing MySQL queries, and integrating backend services with Vue.js frontends.
+Hands-on work with Docker environments, caching strategies, and performance optimization to ensure system reliability and scalability.</p>
+<p>Contribution to critical platform flows such as store provisioning and onboarding, collaborating with cross-functional teams and applying best practices like Clean Code, SOLID, and maintainable architecture.</p>
 
 </div>
